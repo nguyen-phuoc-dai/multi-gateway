@@ -12,5 +12,8 @@
     ],
     "idf.port": "/dev/cu.Bluetooth-Incoming-Port",
     "idf.pythonBinPath": "/Users/dai/.espressif/python_env/idf5.1_py3.9_env/bin/python",
-    "idf.toolsPath": "/Users/dai/.espressif"
+    "idf.toolsPath": "/Users/dai/.espressif",
+    "files.associations": {
+        "sdkconfig.h": "c"
+    }
 }
